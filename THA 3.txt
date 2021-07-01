@@ -1,0 +1,59 @@
+<style>
+div{
+   border: 10px solid black; padding-left: 30px;
+}
+.our_class{
+  font-family: Georgia, 'Times New Roman', Times, serif; color: rgb(4, 4, 83); 
+}
+h2{
+  font-family: Georgia, 'Times New Roman', Times, serif; color: rgb(4, 4, 83); 
+}
+#unique{
+  font-family: Georgia, 'Times New Roman', Times, serif; text-align: center;
+}
+</style>
+<!--from here html start-->
+<html>
+  <head>
+    <title>Resume</title>
+  </head>
+  <body>
+    <div>
+      <h1 id="unique">Resume</h1>
+    <h2>INFO</h2>
+    <p>Name:- Soumya Jain<br>Email Id:- sanjayjain43934@gmail.com <br> Address:- Banaras, Uttar Pradesh</p>
+    <hr>
+    <h2 class="our_class">Education</h2>
+    <ul type="circle">
+      <li>10<sup>th</sup> passed St Xavier's School</li>
+      <li>12<sup>th</sup> passed Aklank Public School, Kota</li>
+      <li>BA Economics Hons from Guru Gobind Singh Indraprastha University, Delhi</li>
+      </ul>
+      <hr>
+      <h2 class="our_class">Interpersonal skills</h2>
+      <ul type="circle">
+        <li>Presentation skills</li>
+        <li>Teaching</li>
+        <li>Problem solving</li>
+        </ul>
+        <hr>
+        <h2 class="our_class">Technical skills</h2>
+        <ul type="circle">
+          <li>HTML</li>
+          <li>Microsoft Powerpoint</li>
+        </ul>
+        <hr>
+        <h2>Languages</h2>
+        <ul type="circle">
+          <li>Hindi</li>
+          <li>English</li>
+        </ul>
+        <hr>
+        <h2>Profile</h2>
+        <ul type="circle">
+          <li><a target="_blank" href="https://github.com/Sam9299/devsnest">GitHub</a></li>
+          <li><a target="_blank" href="https://discord.gg/5h9d2s8e">Discord</a></li>
+        </ul>
+        </div>
+  </body>
+</html>
