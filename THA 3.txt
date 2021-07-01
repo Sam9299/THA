@@ -26,7 +26,7 @@ h2{
     <h2 class="our_class">Education</h2>
     <ul type="circle">
       <li>10<sup>th</sup> passed from St Xavier's School <br>CGPA: 9/10</li>
-      <li>12<sup>th</sup> passed from Aklank Public School, Kota <br>CPGPA: 7.6/10</li>
+      <li>12<sup>th</sup> passed from Aklank Public School, Kota <br>CGPA: 7.6/10</li>
       <li>BA Economics Hons from Guru Gobind Singh Indraprastha University, Delhi</li>
       </ul>
       <hr>
