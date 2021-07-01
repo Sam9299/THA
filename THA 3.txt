@@ -25,8 +25,8 @@ h2{
     <hr>
     <h2 class="our_class">Education</h2>
     <ul type="circle">
-      <li>10<sup>th</sup> passed St Xavier's School</li>
-      <li>12<sup>th</sup> passed Aklank Public School, Kota</li>
+      <li>10<sup>th</sup> passed from St Xavier's School</li>
+      <li>12<sup>th</sup> passed from Aklank Public School, Kota</li>
       <li>BA Economics Hons from Guru Gobind Singh Indraprastha University, Delhi</li>
       </ul>
       <hr>
