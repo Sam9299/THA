@@ -1,6 +1,6 @@
 <style>
 div{
-   border: 10px solid black; padding-left: 100px; background-color: grey;
+   border: 10px solid black; padding: 100px; background-color: grey;
 }
 .our_class{
   font-family: Georgia, 'Times New Roman', Times, serif; color: rgb(4, 4, 83); 
@@ -26,7 +26,7 @@ h2{
     <h2 class="our_class">Education</h2>
     <ul type="circle">
       <li>10<sup>th</sup> passed from St Xavier's School</li>
-      <li>12<sup>th</sup> passed from Aklank Public Schoolx</li>
+      <li>12<sup>th</sup> passed from Aklank Public School</li>
       <li>BA Economics Hons from Guru Gobind Singh Indraprastha University, Delhi</li>
       </ul>
       <hr>
